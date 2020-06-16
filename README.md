@@ -41,4 +41,4 @@ trastoは全国のゲストハウスに関する情報共有や、ゲストハ�
 
 ### 機能一覧
 
-https://docs.google.com/spreadsheets/d/189dJTlmK8Zm1sxLN4mIa5wTC9Z3ABPJg00Rdkbz00sY/edit#gid=276126101
+https://docs.google.com/spreadsheets/d/189dJTlmK8Zm1sxLN4mIa5wTC9Z3ABPJg00Rdkbz00sY/edit?usp=sharing
